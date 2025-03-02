@@ -57,8 +57,7 @@ Saving AI Models: Once training is complete, the AI's best-performing neural net
 Optional Visualization: If you want to visualize the neural networks of the trained AI, you can enable the visualization feature by modifying the code.
 
 # File Structure
-bash
-Copy code
+```bash
 flappy-ai/
 │
 ├── flappy_ai.py           # Main game file with game logic and AI training
@@ -72,20 +71,21 @@ flappy-ai/
 │   └── bg.png
 ├── requirements.txt       # List of required libraries
 └── README.md              # Project documentation
-Main Files:
-flappy_ai.py: Contains the game logic, AI training, and implementation of the NEAT algorithm.
-config-feedforward.txt: The NEAT configuration file that defines the parameters for the neural network evolution process.
-imgs/: Contains image assets used in the game for the bird, pipes, background, etc.
-requirements.txt: A file listing the necessary libraries for the project.
+
+# Main Files:
+  flappy_ai.py: Contains the game logic, AI training, and implementation of the NEAT algorithm.
+  config-feedforward.txt: The NEAT configuration file that defines the parameters for the neural network evolution process.
+  imgs/: Contains image assets used in the game for the bird, pipes, background, etc.
+  requirements.txt: A file listing the necessary libraries for the project.
 
 # Contributing
-If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. Contributions could include:
-
-Enhancing the AI's performance.
-Adding more features to the game.
-Improving the documentation.
-Fixing bugs or improving code efficiency.
-# License
-This project is open-source and available under the MIT License. See the LICENSE file for more information.
-
-
+  If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. Contributions could include:
+  
+  Enhancing the AI's performance.
+  Adding more features to the game.
+  Improving the documentation.
+  Fixing bugs or improving code efficiency.
+  # License
+  This project is open-source and available under the MIT License. See the LICENSE file for more information.
+  
+  
