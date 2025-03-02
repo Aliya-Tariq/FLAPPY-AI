@@ -85,7 +85,7 @@ flappy-ai/
   Adding more features to the game.
   Improving the documentation.
   Fixing bugs or improving code efficiency.
-  # License
+# License
   This project is open-source and available under the MIT License. See the LICENSE file for more information.
   
   
